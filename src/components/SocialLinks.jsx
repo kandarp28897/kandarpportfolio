@@ -11,7 +11,7 @@ const links = [ {
             LinkedIn  <FaLinkedin size={25}/>
         </>
     ),
-    href: 'https://www.linkedin.com'
+    href: 'https://www.linkedin.com/in/kandarp-jadfva-b04426190'
 
 },
 {
@@ -21,7 +21,7 @@ const links = [ {
             Github  <FaGithub size={25}/>
         </>
     ),
-    href: 'https://www.Github.com'
+    href: 'https://github.com/kandarp28897'
 },
 {
     id:3,
