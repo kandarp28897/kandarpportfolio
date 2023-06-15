@@ -57,7 +57,7 @@ const technologies = [
 
 const Experience = () => {
   return (
-    <div className='bg-gradient-to-b from-blue-300 to-purple-300'>
+    <div naem="experience" className='bg-gradient-to-b from-blue-300 to-purple-300'>
       <div className='justify-center items-center flex flex-col'>
         <div>
             <p className='text-4xl text-purple-700 font-bold border-b-4 border-blue-400 inline py-3'>Experience</p>
